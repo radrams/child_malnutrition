@@ -1,3 +1,6 @@
+The code is available at:
+https://github.com/radrams/child_malnutrition
+
 ===================================================================
 Files submitted:
 ====================================================================
