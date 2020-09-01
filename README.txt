@@ -30,13 +30,12 @@ To run the code on Google Colaboratory
 4. Then Navigate to 'colab_models' folder which is saved locally
 5. Select the file which you want to run and view the results in Colab Notebook
 
-========================================
+###########################################
 To run the code on Windows OS
-========================================
+###########################################
 1. Install Python Version: Python 3.7
 2. Download and install Pycharm Community edition from link - https://www.jetbrains.com/pycharm/download/download-thanks.html?platform=windows&code=PCC
-3. Download the .zip file from the supporting material and save it locally
-4. .zip file contains 5 folders,
+3. Download the .zip file from the supporting material and save it locally, .zip file contains 6 folders,
 5. In PyCharm select 'File' => 'New Project' and select the location of the locally downloaded supporting materials folder
 6. Setup Python interpreter as 'Python 3.7' and select 'Create' button
 7. Once the files are loaded, run the required .py file placed in 'models' folder using Pycharm 'Run' option
