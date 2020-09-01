@@ -9,8 +9,8 @@ Files submitted:
 # it is easier to run this file, no setup required
 ========================================
 /data
-# .xlsx file containing original data
-# .xlsx files containing extracted data for underweight, stunting and wasting
+# original data can be found at https://datacatalog.worldbank.org/dataset/health-nutrition-and-population-statistics
+# This folder has .xlsx files containing extracted data for underweight, stunting and wasting
 ========================================
 /figs
 # figures saved during run-time
